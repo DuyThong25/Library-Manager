@@ -1,6 +1,6 @@
 **DESRIPTION**
 
-Hello, this project is in a final reporting course so there may be many mistakes <3 !!
+Hello, This report is made by students, so there may be errors <3!!
 
 The purpose of this software is to make library management simpler and easier, reducing work for each role
 
