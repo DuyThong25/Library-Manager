@@ -27,7 +27,7 @@ Username: <br>
   QuanLy@gmail.com<br>
   HoTro@gmail.com<br>
   Admin@gmail.com<br>
-  HieuTruong.com **This function is used to design**
+  HieuTruong@gmail.com **This function is used to design**
   <br>
 **Software Architecture**
 
